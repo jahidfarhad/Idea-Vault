@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "829282711850",
-    "project_id": "idea-vault-58d11",
-    "storage_bucket": "idea-vault-58d11.appspot.com"
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:829282711850:android:48920dcb1a2a095f030653",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "com.example.idea_vault"
+          "package_name": ""
         }
       },
       "oauth_client": [
         {
-          "client_id": "829282711850-p5ic373nrm9497b5ug05tjtkkro8hb8n.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": "",
+          "client_type": 
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA48QS4ruffJ6kPmRVvgsXxwbW6xPhJTGM"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "829282711850-3ppghff022ln8uap3lp8n2jcovvid6cu.apps.googleusercontent.com",
-              "client_type": 3
+              "client_id": "",
+              "client_type": 
             }
           ]
         }
